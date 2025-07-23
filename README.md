@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Sandhika Surya Ardyanto  
+**NRP**: 5025211022  
+**Judul TA**: Tabular Data Generation pada Dataset Sirosis Hati dengan Metode Conditional dan Unconditional GAN  
+**Dosen Pembimbing**: Prof. Dr. Eng. Chastine Fatichah, S.Kom., M.Kom.  
+**Dosen Ko-pembimbing**: Imam Mustafa Kamal, S.ST, Ph.D.
 
 ---
 
