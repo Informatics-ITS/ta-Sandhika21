@@ -40,10 +40,6 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
    3. Pada section ML Efficacy copy path dari input dari folder fake model yang diinginkan, lalu inverse dan encoding untuk masing-masing tipe model sebelum evaluasi
 ---
 
-## 📚 Dokumentasi Tambahan
-
-- [![Hasil Eksperimen]](docs/api.md)
-
 ---
 
 ## ✅ Validasi
