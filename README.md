@@ -54,5 +54,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [5025211022@student.its.ac.id]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: 5025211022@student.its.ac.id
+- Pembimbing Utama: chastine@its.ac.id
