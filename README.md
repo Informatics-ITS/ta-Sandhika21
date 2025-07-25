@@ -9,9 +9,8 @@
 ---
 
 ## 📺 Demo Aplikasi  
-Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://img.youtube.com/vi/WpT2k10qnMg/maxresdefault.jpg)](https://youtu.be/WpT2k10qnMg))  
+[![Demo Aplikasi](https://img.youtube.com/vi/WpT2k10qnMg/maxresdefault.jpg)](https://youtu.be/WpT2k10qnMg)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
